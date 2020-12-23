@@ -1,7 +1,10 @@
 {
   "private": true,
   "name": "vuepress",
+  "publisher": "vuepress",
+  "displayName": "vuepress",
   "description": "Minimalistic doc generator with Vue component based layout system",
+  "version": "0.0.1",
   "workspaces": [
     "packages/@vuepress/*",
     "packages/vuepress",
