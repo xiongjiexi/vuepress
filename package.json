@@ -1,5 +1,6 @@
 {
   "private": true,
+  "name": "vuepress",
   "description": "Minimalistic doc generator with Vue component based layout system",
   "workspaces": [
     "packages/@vuepress/*",
